@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tesiro_bijou:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/tesiro_bijou_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="tesiro_bijou/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tesiro_bijou" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
